@@ -34,6 +34,14 @@ Install Frontend with npm
 ```
 To open apllications Frontend
 
+Running Backend terlebih dahulu sebelum menjalankan
+```
+https://github.com/CapstoneSIB-Comment/Backend
+```
+```
+npm install
+```
+
 ```bash
   npm run dev
 ```
